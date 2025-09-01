@@ -1,0 +1,28 @@
+[
+  {
+    "number": "123",
+    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/s/z/d/m-hs1-patta-gray-1121-kaspy-original-imah3hbnengyh6fq.jpeg?q=70&crop=false",
+    "link": "https://example.com/product/123"
+  },
+  {
+    "number": "456",
+    "image": "images/tshirt-456.jpg",
+    "link": "https://example.com/product/456"
+  },
+  {
+    "number": "789",
+    "image": "images/dress-789.jpg",
+    "link": "https://example.com/product/789"
+  },
+  {
+    "number": "101",
+    "image": "images/jacket-101.jpg",
+    "link": "https://example.com/product/101"
+  }
+  ,
+  {
+    "number": "001",
+    "image": "images/shoes-112.jpg",
+    "link": "https://example.com/product/112"
+  }
+]
